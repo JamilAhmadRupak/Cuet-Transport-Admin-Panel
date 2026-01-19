@@ -1,0 +1,90 @@
+[
+  {
+    "id": "sched-1",
+    "busId": "bus-1",
+    "busName": "Jamuna",
+    "routeId": "route-1",
+    "routeName": "Route A",
+    "departureTime": "07:30",
+    "arrivalTime": "08:05",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "isActive": true
+  },
+  {
+    "id": "sched-2",
+    "busId": "bus-4",
+    "busName": "Tista",
+    "routeId": "route-1",
+    "routeName": "Route A",
+    "departureTime": "08:00",
+    "arrivalTime": "08:35",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "isActive": true
+  },
+  {
+    "id": "sched-3",
+    "busId": "bus-2",
+    "busName": "Padma",
+    "routeId": "route-2",
+    "routeName": "Route B",
+    "departureTime": "07:45",
+    "arrivalTime": "08:25",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "isActive": true
+  },
+  {
+    "id": "sched-4",
+    "busId": "bus-5",
+    "busName": "Sangu",
+    "routeId": "route-2",
+    "routeName": "Route B",
+    "departureTime": "08:15",
+    "arrivalTime": "08:55",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "isActive": true
+  },
+  {
+    "id": "sched-5",
+    "busId": "bus-3",
+    "busName": "Matamuhuri",
+    "routeId": "route-3",
+    "routeName": "Route C",
+    "departureTime": "07:30",
+    "arrivalTime": "08:08",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "isActive": true
+  },
+  {
+    "id": "sched-6",
+    "busId": "bus-6",
+    "busName": "Halda",
+    "routeId": "route-3",
+    "routeName": "Route C",
+    "departureTime": "08:00",
+    "arrivalTime": "08:38",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "isActive": true
+  },
+  {
+    "id": "sched-7",
+    "busId": "bus-7",
+    "busName": "Meghna",
+    "routeId": "route-4",
+    "routeName": "Route D",
+    "departureTime": "07:45",
+    "arrivalTime": "08:27",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "isActive": true
+  },
+  {
+    "id": "sched-8",
+    "busId": "bus-8",
+    "busName": "Turag",
+    "routeId": "route-5",
+    "routeName": "Route E",
+    "departureTime": "07:30",
+    "arrivalTime": "08:15",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "isActive": true
+  }
+]

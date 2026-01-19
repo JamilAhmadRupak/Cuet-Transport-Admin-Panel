@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bus-1",
+    "name": "Jamuna",
+    "type": "teacher",
+    "capacity": 40,
+    "status": "active",
+    "currentRoute": "route-1",
+    "registrationNumber": "CUET-T-001"
+  },
+  {
+    "id": "bus-2",
+    "name": "Padma",
+    "type": "teacher",
+    "capacity": 40,
+    "status": "active",
+    "currentRoute": "route-2",
+    "registrationNumber": "CUET-T-002"
+  },
+  {
+    "id": "bus-3",
+    "name": "Matamuhuri",
+    "type": "teacher",
+    "capacity": 40,
+    "status": "active",
+    "currentRoute": "route-3",
+    "registrationNumber": "CUET-T-003"
+  },
+  {
+    "id": "bus-4",
+    "name": "Tista",
+    "type": "student",
+    "capacity": 50,
+    "status": "active",
+    "currentRoute": "route-1",
+    "registrationNumber": "CUET-S-001"
+  },
+  {
+    "id": "bus-5",
+    "name": "Sangu",
+    "type": "student",
+    "capacity": 50,
+    "status": "active",
+    "currentRoute": "route-2",
+    "registrationNumber": "CUET-S-002"
+  },
+  {
+    "id": "bus-6",
+    "name": "Halda",
+    "type": "student",
+    "capacity": 50,
+    "status": "active",
+    "currentRoute": "route-3",
+    "registrationNumber": "CUET-S-003"
+  },
+  {
+    "id": "bus-7",
+    "name": "Meghna",
+    "type": "student",
+    "capacity": 50,
+    "status": "active",
+    "currentRoute": "route-4",
+    "registrationNumber": "CUET-S-004"
+  },
+  {
+    "id": "bus-8",
+    "name": "Turag",
+    "type": "student",
+    "capacity": 50,
+    "status": "active",
+    "currentRoute": "route-5",
+    "registrationNumber": "CUET-S-005"
+  },
+  {
+    "id": "bus-9",
+    "name": "Gomuti",
+    "type": "student",
+    "capacity": 50,
+    "status": "maintenance",
+    "registrationNumber": "CUET-S-006"
+  }
+]

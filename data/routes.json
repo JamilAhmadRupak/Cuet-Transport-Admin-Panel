@@ -1,0 +1,87 @@
+[
+  {
+    "id": "route-1",
+    "name": "Route A",
+    "startPoint": "CUET Main Gate",
+    "endPoint": "Old Railway Station",
+    "stops": [
+      "CUET Main Gate",
+      "Oxygen Intersection",
+      "Tiger Pass",
+      "Muradpur",
+      "New Market",
+      "Old Railway Station"
+    ],
+    "distance": "12 km",
+    "estimatedTime": "35 minutes",
+    "assignedBuses": ["bus-1", "bus-4"]
+  },
+  {
+    "id": "route-2",
+    "name": "Route B",
+    "startPoint": "CUET Main Gate",
+    "endPoint": "Old Railway Station",
+    "stops": [
+      "CUET Main Gate",
+      "Oxygen Intersection",
+      "Hathazari Road",
+      "Kadamtali",
+      "Chawk Bazar",
+      "Old Railway Station"
+    ],
+    "distance": "14 km",
+    "estimatedTime": "40 minutes",
+    "assignedBuses": ["bus-2", "bus-5"]
+  },
+  {
+    "id": "route-3",
+    "name": "Route C",
+    "startPoint": "CUET Main Gate",
+    "endPoint": "Old Railway Station",
+    "stops": [
+      "CUET Main Gate",
+      "Oxygen Intersection",
+      "Nasirabad",
+      "GEC Circle",
+      "Dewanhat",
+      "Old Railway Station"
+    ],
+    "distance": "13 km",
+    "estimatedTime": "38 minutes",
+    "assignedBuses": ["bus-3", "bus-6"]
+  },
+  {
+    "id": "route-4",
+    "name": "Route D",
+    "startPoint": "CUET Main Gate",
+    "endPoint": "Old Railway Station",
+    "stops": [
+      "CUET Main Gate",
+      "Oxygen Intersection",
+      "Agrabad",
+      "Amin Jute Mills",
+      "Kazir Dewri",
+      "Old Railway Station"
+    ],
+    "distance": "15 km",
+    "estimatedTime": "42 minutes",
+    "assignedBuses": ["bus-7"]
+  },
+  {
+    "id": "route-5",
+    "name": "Route E",
+    "startPoint": "CUET Main Gate",
+    "endPoint": "Old Railway Station",
+    "stops": [
+      "CUET Main Gate",
+      "Oxygen Intersection",
+      "Bahaddarhat",
+      "Bakalia",
+      "Sadarghat",
+      "Old Railway Station"
+    ],
+    "distance": "16 km",
+    "estimatedTime": "45 minutes",
+    "assignedBuses": ["bus-8"]
+  }
+]

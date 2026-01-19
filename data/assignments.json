@@ -1,0 +1,35 @@
+[
+  {
+    "id": "assign-1",
+    "busId": "bus-1",
+    "busName": "Jamuna",
+    "passengerType": "teacher",
+    "passengerCount": 35,
+    "startDate": "2026-01-01",
+    "endDate": "2026-01-31",
+    "isMonthly": true,
+    "routeId": "route-1"
+  },
+  {
+    "id": "assign-2",
+    "busId": "bus-4",
+    "busName": "Tista",
+    "passengerType": "student",
+    "passengerCount": 48,
+    "startDate": "2026-01-01",
+    "endDate": "2026-01-31",
+    "isMonthly": true,
+    "routeId": "route-1"
+  },
+  {
+    "id": "assign-3",
+    "busId": "bus-2",
+    "busName": "Padma",
+    "passengerType": "teacher",
+    "passengerCount": 32,
+    "startDate": "2026-01-19",
+    "endDate": "2026-01-19",
+    "isMonthly": false,
+    "routeId": "route-2"
+  }
+]

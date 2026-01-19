@@ -1,0 +1,20 @@
+[
+  {
+    "id": "amb-1",
+    "name": "Ambulance 1",
+    "status": "active",
+    "emergencyContact": "+880-1234-567890"
+  },
+  {
+    "id": "amb-2",
+    "name": "Ambulance 2",
+    "status": "active",
+    "emergencyContact": "+880-1234-567891"
+  },
+  {
+    "id": "amb-3",
+    "name": "Ambulance 3",
+    "status": "active",
+    "emergencyContact": "+880-1234-567892"
+  }
+]
